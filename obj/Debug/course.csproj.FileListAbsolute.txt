@@ -1,0 +1,7 @@
+C:\Users\Valdir\Desktop\Arquivos\backups-valdir\PROGRAMACAO EM C#\COURSE_EXPRESSOES_LAMBDA\course\course\bin\Debug\course.exe.config
+C:\Users\Valdir\Desktop\Arquivos\backups-valdir\PROGRAMACAO EM C#\COURSE_EXPRESSOES_LAMBDA\course\course\bin\Debug\course.exe
+C:\Users\Valdir\Desktop\Arquivos\backups-valdir\PROGRAMACAO EM C#\COURSE_EXPRESSOES_LAMBDA\course\course\bin\Debug\course.pdb
+C:\Users\Valdir\Desktop\Arquivos\backups-valdir\PROGRAMACAO EM C#\COURSE_EXPRESSOES_LAMBDA\course\course\obj\Debug\course.csprojAssemblyReference.cache
+C:\Users\Valdir\Desktop\Arquivos\backups-valdir\PROGRAMACAO EM C#\COURSE_EXPRESSOES_LAMBDA\course\course\obj\Debug\course.csproj.CoreCompileInputs.cache
+C:\Users\Valdir\Desktop\Arquivos\backups-valdir\PROGRAMACAO EM C#\COURSE_EXPRESSOES_LAMBDA\course\course\obj\Debug\course.exe
+C:\Users\Valdir\Desktop\Arquivos\backups-valdir\PROGRAMACAO EM C#\COURSE_EXPRESSOES_LAMBDA\course\course\obj\Debug\course.pdb
